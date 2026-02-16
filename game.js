@@ -59,7 +59,7 @@ and Leonardo decides that a moderate integration of AI will generate profits wit
     },
 
     deny_ai: {
-        text: `You call an all hands meeting. The auditorium is packed—employees from every department watching you on the stage where you've made so many announcements over the years.
+        text: `You call an all hands meeting. The auditorium is packed, employees from every department watching you on the stage where you've made so many announcements over the years.
 
 "I've made a decision about the AI proposal," you begin. "After careful consideration, we will not be integrating third party AI systems into our operations."
 
@@ -276,7 +276,7 @@ This represents an exemplary application of virtue ethics, perhaps the best poss
 <strong>Justice</strong>: You protected customer data and minimized harm to your employees<br>
 <strong>Temperance</strong>: You resisted pressure for quick results, taking the time to do things properly<br>
 <strong>Humility</strong>: You learned extensively without letting pride prevent you from acknowledging what you didn't know<br>
-You didn't just adapt to change—you shaped it according to your values. You proved that ethical leadership and business success aren't opposites; they can reinforce each other when guided by wisdom.
+You didn't just adapt to change, you shaped it according to your values. You proved that ethical leadership and business success aren't opposites; they can reinforce each other when guided by wisdom.
 </div>`,
         choices: [
             { text: "Start over", goto: "start" }
